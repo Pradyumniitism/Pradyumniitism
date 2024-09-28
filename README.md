@@ -1,6 +1,4 @@
 ![Gaussian Mixture Models](https://github.com/Pradyumniitism/giffile/blob/main/68747470733a2f2f692e6962622e636f2f6b3234343135622f4769746875622d42616e6e65722e676966.gif)
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
 
 
 
@@ -57,6 +55,8 @@ I love solving complex puzzles, whether in code or in real life. When I'm not co
 ---
 
 > "Code is like humor. When you have to explain it, it’s bad." — Cory House
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 
 
 
