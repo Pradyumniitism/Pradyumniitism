@@ -37,9 +37,7 @@ I am a dedicated Data Analyst and Full-Stack Developer with a strong foundation 
 
 ## 📫 Let's Connect!
 
-- **LinkedIn:** [Pradyumn Sharma](https://www.linkedin.com/in/pradyumn-sharma/)
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
-- **Personal Website:** [pradyumnsharma.com](#) *(If applicable)*
+- **LinkedIn:** [Pradyumn Sharma](https://www.linkedin.com/in/pradyumns123))
 
 ---
 
