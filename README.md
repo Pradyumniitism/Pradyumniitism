@@ -1,9 +1,11 @@
 ![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Coding]([https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy](https://tenor.com/view/gaussian-mixture-models-em-method-math-gauss-computer-science-nerd-gif-15288262).gif)
+https://tenor.com/view/gaussian-mixture-models-em-method-math-gauss-computer-science-nerd-gif-15288262
 
 
 # 👋 Hi, I'm Pradyumn Sharma!
 
-I am a dedicated Data Analyst and Full-Stack Developer with a strong foundation in Supply Chain Management, Blockchain Integration, and Data Science. I have a passion for turning data-driven insights into actionable strategies and building robust web applications that solve real-world problems. With a background in Industrial Engineering and Management, I bring a unique blend of technical and analytical skills to every project I work on.
+I am a dedicated Data Analyst and Full-Stack Developer with a strong foundation in Supply Chain Management, Blockchain Integration, and Data Science. I have a passion for turning data-driven insights into actionable strategies and building robust web applications that solve real-world problems. With a background in IEM, I bring a unique blend of technical and analytical skills to every project I work on.
 
 ---
 
