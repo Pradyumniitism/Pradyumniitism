@@ -1,5 +1,5 @@
 ![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-![Gaussian Mixture Models](https://media.tenor.com/images/1e98de4bc593dd01e96e4972bc87d03e/tenor.gif)
+![Gaussian Mixture Models][(https://media.tenor.com/images/1e98de4bc593dd01e96e4972bc87d03e/tenor.gif)](https://github.com/Pradyumniitism/giffile/blob/main/gaussian-mixture-models-em-method-math.gif)
 
 
 # 👋 Hi, I'm Pradyumn Sharma!
