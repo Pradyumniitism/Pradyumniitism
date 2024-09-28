@@ -1,5 +1,6 @@
 ![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-![Coding]([https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy](https://tenor.com/view/gaussian-mixture-models-em-method-math-gauss-computer-science-nerd-gif-15288262).gif)
+![Gaussian Mixture Models](https://media.tenor.com/images/1e98de4bc593dd01e96e4972bc87d03e/tenor.gif)
+
 https://tenor.com/view/gaussian-mixture-models-em-method-math-gauss-computer-science-nerd-gif-15288262
 
 
